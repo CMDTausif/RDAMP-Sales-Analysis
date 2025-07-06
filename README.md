@@ -60,22 +60,31 @@ The revenue figures for the bottom 5 products are extremely low, all under $20, 
 
 There is a colossal difference in revenue between the best-selling products and the underperforming ones. The top products are generating revenues in the tens of thousands, while the bottom products are barely breaking double-digits. This suggests that the company's product portfolio has a highly successful segment and a segment that is performing very poorly. Strategies might need to be developed to either improve the performance of the bottom products or re-evaluate their presence in the product line.
 
+**Average Profit Margin Rate by Product Category**
+
+![AVGProfitMargin](https://github.com/user-attachments/assets/4825b693-651b-46d9-9cb3-2324bf72a285)
+
+The bar chart showing the average profit margin rate by product category reveals a clear profitability trend across different segments. The margins range broadly from nearly 80% at the high end to just above 55% at the low end, indicating that most categories are still generating healthy profits. Food-related categories dominate the top of the chart, with items like dressings, marinades, bread, and fresh produce showing the highest margins. This suggests that food products are generally strong contributors to overall profitability.
+
+Clothing items such as sweaters also appear among the higher-margin categories, but as the chart progresses, both food and non-food categories populate the middle range, including dairy, spreads, tools, and accessories. Towards the lower end, categories like frozen fruits, deli meats, and some swimwear and app-based products show relatively lower margins, though still positive.
+
+Overall, the chart highlights that while the business maintains profitability across nearly all categories, focusing on expanding high-margin food lines and reviewing cost structures or pricing strategies in lower-margin segments could improve overall performance. The company should also consider the strategic role of lower-margin but potentially high-volume or brand-building categories when making product portfolio decisions.
 
 
+**Sales distribution across Order Mode (Online vs In-Store)**
 
+![salesdistributionbyorder](https://github.com/user-attachments/assets/0ef74e71-b924-4ba6-970c-4860f60e3f9e)
 
+The donut chart depicting the sales distribution by order mode illustrates a nearly even split between online and in-store sales. Online sales account for 51.5% of the total, while in-store sales make up the remaining 48.5%. This close balance highlights that the company is effectively leveraging both sales channels.
 
+The slight edge of online sales suggests a modest shift in customer preference toward digital shopping, though the difference is minimal. This balance indicates that neither channel is significantly outperforming the other, and both are essential to the company’s revenue generation.
 
+The current distribution points to a well-executed multi-channel strategy, suggesting that customers are engaging consistently across platforms. This balanced performance underscores the importance of continued investment in both online and offline experiences. Enhancing user experience, logistics, and digital engagement can help grow the online channel, while improving in-store customer service and promotional strategies can support physical sales growth.
 
+Overall, maintaining strength across both order modes not only supports ongoing growth but also adds operational resilience. By not being overly dependent on a single channel, the company is better positioned to adapt to shifts in consumer behavior or external market conditions.
 
+**Tools Used-**
 
-
-
-
-
-
-
-
-
+Jupyter Notebook, Python 
 
 
